@@ -32,7 +32,7 @@ Projetos desenvolvidos no Curso da Udemy Desenvolvimento Web Completo 2021 - 20 
  </li>
  </ol>
 
- ### < Bootstrap e Design Responsivo >
+<h3> < Bootstrap e Design Responsivo ></h3>
  <ol>
  <li>
  <a href="https://rafagoesdev.github.io/des_web_udemy/7_finans/">Finans</a>
@@ -42,7 +42,7 @@ Projetos desenvolvidos no Curso da Udemy Desenvolvimento Web Completo 2021 - 20 
  </li>
  </ol>
 
- ### < JavaScript >
+ <h3> < JavaScript ></h3>
  <ol>
  <li>
  <a href="https://rafagoesdev.github.io/des_web_udemy/9_app_calculadora/">App Calculadora</a>
